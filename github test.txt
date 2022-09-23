@@ -4,6 +4,12 @@ def print_hello():
 def print_KIT():
     print("Kumoh National Institute of Technology")
 
+def wannagohome():
+    print('집에가고싶다')
+
 if __name__=='__main__':
     print_hello()
     print_KIT()
+    wannagohome()
+
+
